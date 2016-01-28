@@ -1,0 +1,14 @@
+layout_spectrum: 0.4357553
+typography_spectrum: 0.9266116
+color:
+  saturation: 0.9170439
+  lightness: 0.8850096
+  brandStrength: 0.3864457
+  rhythmicContrast: 0.1056268
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Two8photo
